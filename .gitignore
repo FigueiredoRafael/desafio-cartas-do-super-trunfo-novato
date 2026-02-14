@@ -1,0 +1,26 @@
+# Executáveis
+main
+*.exe
+*.out
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de dependência
+*.d
+
+# Arquivos de compilação
+*.a
+*.so
+*.dylib
+
+# IDEs e editores
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
